@@ -5,8 +5,7 @@
 A simple tweak to add power settings in the Settings app.
 
 ### Screenshots
-<img height="300" src="Images/iPhone-image.jpeg">
-<img height="300" src="Images/iPad-image.png">
+<img height="300" src="Images/iPhone-image.jpeg"> <img height="300" src="Images/iPad-image.png">
 
 ### How to install
 Head over to the [Releases](https://github.com/NightwindDev/PowerSettings/releases) section and download the correct `.deb` for your device.
