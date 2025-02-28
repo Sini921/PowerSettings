@@ -2,7 +2,7 @@
 
 # PowerSettings
 ### Compatible with iOS 13-18.
-A simple tweak to add power settings in the Settings app.
+A simple tweak to add power settings to the Settings app.
 
 ### Screenshots
 <img height="300" src="Images/iPhone-image.jpeg"> <img height="300" src="Images/iPad-image.png">

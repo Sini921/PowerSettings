@@ -2,7 +2,7 @@ Package: com.nightwind.powersettings
 Name: PowerSettings
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: A simple tweak to control power settings in the Settings app.
+Description: A simple tweak to add power settings to the Settings app.
 Maintainer: Nightwind
 Author: Nightwind
 Section: Tweaks
