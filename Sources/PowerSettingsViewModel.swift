@@ -1,5 +1,5 @@
 //
-// Copyright (c) Nightwind 2025
+// Copyright (c) 2025 Nightwind
 //
 
 import FrontBoardServices
